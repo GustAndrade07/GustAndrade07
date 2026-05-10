@@ -59,14 +59,6 @@ Cursando **Análise e Desenvolvimento de Sistemas** no Senac-SP e buscando oport
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GustAndrade07&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## 📫 Contato
 
 <p>
