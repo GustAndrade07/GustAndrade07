@@ -43,16 +43,6 @@ Cursando **Análise e Desenvolvimento de Sistemas** no Senac-SP e buscando oport
 
 ---
 
-## 📂 Projetos em destaque
-
-| Projeto | Tecnologias | Descrição |
-|---|---|---|
-| [EcommerceApi](https://github.com/GustAndrade07/EcommerceApi) | C# · .NET · EF Core · SQLite · Swagger | API REST de e-commerce com CRUD completo, ORM e migrations |
-| [BackEnd GaleriaSeleta](https://github.com/GustAndrade07/BackEnd_GaleriaSeleta) | Java · Spring Boot · JPA · BCrypt · Angular | Backend de loja de roupas com autenticação e arquitetura em camadas |
-| [Jogo Pong](https://github.com/GustAndrade07/jogo-pong-js) | JavaScript · p5.js | Jogo Pong para dois jogadores com física de colisão e efeitos sonoros |
-
----
-
 ## 📫 Contato
 
 <p>
