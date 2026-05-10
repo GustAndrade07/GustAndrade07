@@ -1,8 +1,6 @@
-<div align="center">
+<div>
 
-# Olá, eu sou o Gustavo Andrade
-
-### Dev Jr em formação · Analista de Dados Jr · São Paulo – SP
+## Dev Jr em formação · Analista de Dados Jr · São Paulo – SP
 
 </div>
 
