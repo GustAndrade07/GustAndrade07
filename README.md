@@ -1,12 +1,13 @@
 
 
-## Dev Jr em formação · Analista de Dados Jr · São Paulo – SP
+## Desenvolvedor Full-Stack · Java + Spring Boot + Angular · C# + .NET · São Paulo – SP
 
 ---
 
 ## Sobre mim
 
-Tenho experiência prática como **Analista de Dados** na EntreInvest (área de Meios de Pagamento), onde trabalho com SQL, Power BI e automações em Python. Paralelamente, estou me desenvolvendo como **desenvolvedor back-end**, construindo APIs REST com Java + Spring Boot e C# + .NET.
+Desenvolvedor full-stack que constrói de ponta a ponta. Back-end em Java (Spring Boot) e C# (.NET), front-end em Angular. Já desenvolvi APIs REST completas com autenticação e regras de negócio, e as interfaces que as consomem.
+Atuo como Analista de Dados (SQL, Python, Power BI) no setor de meios de pagamento — o que me dá um olhar de negócio raro num dev júnior.
 
 Cursando **Análise e Desenvolvimento de Sistemas** no Senac-SP e buscando oportunidades como **Dev Jr** ou **Analista de Dados Jr**.
 
